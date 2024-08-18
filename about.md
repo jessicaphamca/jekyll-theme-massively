@@ -7,6 +7,10 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
+
+	<header class="major">
+									<h2><a href="#">Jessica Pham</a></h2>
+
 ## A Bit About Me
 
 <span class="image left"><img src="{{ "/jess1.jpg" | absolute_url }}" alt="" /></span>
