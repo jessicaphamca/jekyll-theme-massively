@@ -10,14 +10,10 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            mytwittername
-facebook:           myfacebook
-instagram:          myinstagram
 github:             mygithub
 
 # Personal
 location:           Vancouver, BC, Canada
-phone:              310-318-5555
 email:              jessicaphamca@gmail.com # Change to your email for contact submissions
 
 # Other
