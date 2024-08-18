@@ -8,8 +8,35 @@ sitemap:
     changefreq: weekly
 ---
 
-	<header class="major">
-									<h2><a href="#">Jessica Pham</a></h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centered Text Example</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            font-size: 60px;
+            font-weight: bold;
+            text-align: center;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Jessica Pham</h1>
+</body>
+</html>
+
+								
 
 ## A Bit About Me
 
