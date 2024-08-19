@@ -8,7 +8,7 @@ sitemap:
     changefreq: weekly
 ---
 
-<h1 style="text-align: center;">Jessica Pham</h1>								
+<h2 style="text-align: center;">Jessica Pham</h2>								
 
 ## A Bit About Me
 
