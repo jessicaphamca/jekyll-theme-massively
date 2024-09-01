@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Massively: The Jekyll Theme!"
-date:   2017-10-31
-excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
-image: "/images/pic02.jpg"
+title:  "Customer Purchase Behavior"
+date:   
+excerpt: "Explore customer purchase behavior during Black Friday at Walmart Inc., focusing on demographic factors such as gender, age, city category, and occupation. Understanding these patterns is crucial for identifying key trends and differences in spending habits among various customer segments. By analyzing the data, the study seeks to uncover insights that can guide targeted marketing strategies and enhance overall business performance. The findings will provide a detailed examination of how different groups of customers engage with the brand, highlighting areas for potential growth and optimization."
+image: "/images/pic03.jpg"
 ---
 
 ## How to Use This Theme
