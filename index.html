@@ -71,8 +71,8 @@ sitemap:
 
 						<!-- Posts -->
 							<section class="posts">
-                {% for post in site.posts limit:3 %}
-                {% assign mod3 = forloop.index | modulo: 3 %}
+                {% for post in site.posts limit:10 %}
+                {% assign mod3 = forloop.index | modulo: 10 %}
   								<article>
   									<header>
   										<span class="date">{{ post.date | date_to_string }}</span>
@@ -93,7 +93,6 @@ sitemap:
   								</article>
                   {% endif %}
                 {% endfor %}
-						!-- Static Project Section -->
     								<article>
         								<header>
             									<h2><a href="https://github.com/jessicaphamca/jessicaphamca.github.io/blob/master/_posts/Walmart_CustomerPurchaseBehavior.md">Customer Purchase Behavior at Walmart</a></h2>
