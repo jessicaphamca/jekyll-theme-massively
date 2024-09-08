@@ -10,7 +10,7 @@ sitemap:
 <h2 style="text-align: center; margin-bottom: 40px;">Jessica Pham</h2>
 
 <div style="text-align: center;">
-  <img src="{{ "/jess1.jpg" | absolute_url }}" alt="Jessica Pham" style="max-width: 100%; height: auto; margin-top: 20px;" />
+  <img src="{{ "images/profilejp.png" | absolute_url }}" alt="Jessica Pham" style="max-width: 100%; height: auto; margin-top: 20px;" />
 </div>
 
 
