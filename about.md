@@ -10,6 +10,7 @@ sitemap:
 <h2 style="text-align: center;">Jessica Pham</h2>
 
 
+
 <div style="text-align: center;">
   <img src="{{ "/jess1.jpg" | absolute_url }}" alt="Jessica Pham" style="max-width: 100%; height: auto;" />
 </div>
@@ -29,7 +30,7 @@ sitemap:
 
 <p>With a background in <strong>Finance and Banking</strong>, an <strong>MBA</strong>, and a <strong>post-degree diploma in Data Analytics</strong>, I combine business acumen with technical expertise to create impactful solutions. Each project in this portfolio demonstrates my ability to derive actionable insights and support informed decision-making through data.</p>
 
-<p>I invite you to explore my work and discover how I apply cutting-edge analytics and data science techniques to drive success.</p>
+<p>I'd invite you to explore my work and discover how I apply cutting-edge analytics and data science techniques to drive success.</p>
 
 
 
