@@ -7,6 +7,9 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
+<div style="text-align: center;">
+  <img src="{{ "/jess1.jpg" | absolute_url }}" alt="Jessica Pham" style="max-width: 100%; height: auto;" />
+</div>
 
 <h2 style="text-align: center;">Jessica Pham</h2>
 
@@ -26,7 +29,7 @@ sitemap:
 
 <p>I invite you to explore my work and discover how I apply cutting-edge analytics and data science techniques to drive success.</p>
 
-<span class="image left"><img src="{{ "/jess1.jpg" | absolute_url }}" alt="" /></span>
+
 
         	
 
