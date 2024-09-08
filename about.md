@@ -10,12 +10,20 @@ sitemap:
 
 <h2 style="text-align: center;">Jessica Pham</h2>								
 
-## A Bit About Me
 
-<span class="image left"><img src="{{ "/jess1.jpg" | absolute_url }}" alt="" /></span>
 
-With a Bachelor's degree in Finance followed by Master of Business Administration, I transitioned from academia to professional roles across retail and financial services. Recognizing the growing importance of data analytics, I pursued and completed a Post-Degree Diploma in Data Analytics at Langara College. 
-I now work in a data-related role, applying my analytical skills to derive actionable insights from data. My aim is to leverage my education and experience to drive informed decision-making and positive outcomes.
+                                    <span class="image left"><img src="{{ "/jess1.jpg" | absolute_url }}" alt="" /></span>
+
+                                    <p>Hello, and thank you for visiting my portfolio! This space showcases my journey and projects in <strong>dat                 analytics</strong>, <strong>business analytics</strong>, and <strong>data science</strong>. With a strong foundation in <strong>programming languages</strong> (such as Python, R, and SQL), and a deep understanding of <strong>machine learning</strong>, I apply data-driven approaches to solve complex business problems.</p>
+  								    <p>Through this portfolio, you’ll find examples of my work in areas like:</p>
+    								<p><strong>Data Analysis:</strong> Extracting meaningful insights from datasets using statistical methods, visualizations, and storytelling.<br />
+    								<strong>Business Analytics:</strong> Leveraging data to inform decision-making, optimize processes, and uncover opportunities for growth.<br />
+    								<strong>Machine Learning Models:</strong> Building predictive models, tuning algorithms, and utilizing machine learning techniques to drive intelligent solutions.<br />
+    								<strong>Data Wrangling:</strong> Cleaning, processing, and transforming raw data into actionable insights.<br />
+    								<strong>Visualization:</strong> Presenting data through dynamic and interactive visuals that communicate trends and patterns effectively.
+  								    </p>
+  								    <p>With a background in <strong>Finance and Banking</strong>, an <strong>MBA</strong>, and a <strong>post-degree diploma in   Data Analytics</strong>, I combine business acumen with technical expertise to create impactful solutions. Each project in this portfolio demonstrates my ability to derive actionable insights and support informed decision-making through data.</p>
+  								    <p>I'd invite you to explore my work and discover how I apply cutting-edge analytics and data science techniques to drive success.</p>	
 
 
 
