@@ -7,13 +7,12 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-<h2 style="text-align: center;">Jessica Pham</h2>
-
-
+<h2 style="text-align: center; margin-bottom: 40px;">Jessica Pham</h2>
 
 <div style="text-align: center;">
-  <img src="{{ "/jess1.jpg" | absolute_url }}" alt="Jessica Pham" style="max-width: 100%; height: auto;" />
+  <img src="{{ "/jess1.jpg" | absolute_url }}" alt="Jessica Pham" style="max-width: 100%; height: auto; margin-top: 20px;" />
 </div>
+
 
 
 <p>Hello, and thank you for visiting my portfolio! This space showcases my journey and projects in <strong>data analytics</strong>, <strong>business analytics</strong>, and <strong>data science</strong>. With a strong foundation in <strong>programming languages</strong> (such as Python, R, and SQL), and a deep understanding of <strong>machine learning</strong>, I apply data-driven approaches to solve complex business problems.</p>
