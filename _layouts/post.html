@@ -23,26 +23,11 @@
           {{ content }}
         </div>
       </section>
-      <div class="comments-wrapper">
-        <div id="disqus_thread"></div>
-        <script>
-          var disqus_config = function () {
-            this.page.url = '{{ absolute_url }}{{ page.url }}';
-            this.page.identifier = '{{ page.url }}';
-          };
-          (function() {
-            var d = document, s = d.createElement('script');
-            s.src = 'https://{{ site.disqus_shortname }}.disqus.com/embed.js';
-            s.setAttribute('data-timestamp', +new Date());
-            (d.head || d.body).appendChild(s);
-          })();
-        </script>
-        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-      </div>
+      <!-- Disqus comments section removed -->
+      {% include foot.html %}
     </div>
-    {% include foot.html %}
+    {% include scripts-main.html %}
+    {% include tracking.html %}
   </div>
-  {% include scripts-main.html %}
-  {% include tracking.html %}
 </body>
 </html>
