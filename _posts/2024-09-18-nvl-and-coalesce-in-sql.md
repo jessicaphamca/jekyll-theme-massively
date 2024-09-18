@@ -32,7 +32,7 @@ If the salary is NULL, the function returns 0; otherwise, it returns the actual 
 What is COALESCE?
 COALESCE is a standard SQL function that is more versatile than NVL and can be used across different database systems (e.g., MySQL, PostgreSQL, SQL Server, Oracle). It returns the first non-NULL expression from a list of expressions.
 
-Syntax:
+**Syntax:**
 
 COALESCE(expression1, expression2, …, expression_n)
 
@@ -65,19 +65,19 @@ SELECT COALESCE(325, 'good') FROM dual;
 
 Handling Multiple Values: NVL cannot handle more than two values, so it is less flexible. COALESCE allows multiple values, which can simplify the logic when dealing with multiple fallback options.
 
-When to Use NVL vs. COALESCE?
+# When to Use NVL vs. COALESCE?
 
-Use NVL if:
+### Use NVL if:
 Work exclusively with an Oracle database.
 Only need to replace NULL with a single alternative value.
 Data type conversion is not an issue.
 
-Use COALESCE if:
+### Use COALESCE if:
 Need to support multiple databases (e.g., SQL Server, PostgreSQL, MySQL).
 Want to check multiple expressions for NULL values.
 Performance and type safety are important in the use case.
 
-**## Conclusion**
+## Conclusion
 
 NVL and COALESCE are both useful for handling NULL values in SQL queries, but they differ in functionality, performance, and portability. For Oracle-only applications with simple two-argument replacements, NVL can be a convenient choice. However, COALESCE is more versatile, supports multiple database platforms, and handles multiple expressions, making it a better choice for more complex or cross-platform use cases. By understanding the differences between these two functions, we can write more efficient and portable SQL queries that handle NULL values effectively.
 
