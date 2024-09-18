@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Massively: The Jekyll Theme!"
-date:   2017-10-31
-excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
+title:  "The Difference Between NVL and COALESCE in SQL"
+date:   
+excerpt: "In SQL, handling NULL values is crucial to ensure your queries return meaningful results. Two commonly used functions for dealing with NULL values are NVL and COALESCE. While they may seem similar at first glance, there are key differences in how they operate and their performance. This post will explain the syntax, usage, and differences between NVL and COALESCE so you can choose the right function for your specific needs."
 image: "/images/pic02.jpg"
 ---
 
