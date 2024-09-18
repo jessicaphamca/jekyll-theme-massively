@@ -6,4 +6,15 @@ excerpt: "In SQL, handling NULL values is crucial to ensure your queries return 
 image: "/images/pic02.jpg"
 ---
 
+## Introduction
 
+In SQL, handling NULL values is crucial to ensure our queries return meaningful results. Two commonly used functions for dealing with NULL values are NVL and COALESCE. While they may seem similar at first glance, there are key differences in how they operate and their performance. This post will explain the syntax, usage, and differences between NVL and COALESCE so we can choose the right function for our specific needs.
+
+### What is NVL?
+
+NVL is a function specific to Oracle databases that replaces a NULL value with a specified replacement. It’s simple and commonly used, especially in Oracle environments.
+
+**Syntax:**
+
+```sql
+NVL(expression, replacement_value)
